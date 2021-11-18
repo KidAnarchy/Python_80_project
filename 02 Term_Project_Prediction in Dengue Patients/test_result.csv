@@ -1,0 +1,6 @@
+﻿model,r_squared,mae,rmse
+Multiple linear regression,0.64,621.1161,960.8271
+Multiple linear regression with RFE,0.66,618.6412,940.3568
+Multiple linear regression with GridSearchCV,0.65,613.4758,945.3093
+Multiple linear regression with K-foldCV,0.57,676.5037,998.244
+Polynomial linear regression with K-foldCV,0.78,544.9456,753.6509
