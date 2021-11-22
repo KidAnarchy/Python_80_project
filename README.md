@@ -1,2 +1,3 @@
 # Python_80_project
-My Projects
+
+My term Projects when I was study in Data Science Master degree.
